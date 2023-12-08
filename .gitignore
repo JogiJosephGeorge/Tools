@@ -1,0 +1,13 @@
+*.suo
+*.sdf
+*.user
+*.ipch
+*.pyc
+bin
+obj
+packages
+.vs
+.nuget
+Debug
+Release
+Documents/MyData/3 Jogi.xlsx
